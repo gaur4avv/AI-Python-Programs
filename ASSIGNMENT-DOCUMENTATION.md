@@ -1,4 +1,4 @@
-# Assignment 5: GitHub Documentation with AI
+# Assignment 5: GitHub Documentation 
 
 ## 1. Objective
 
